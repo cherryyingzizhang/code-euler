@@ -8,8 +8,7 @@ using namespace std;
 // What is the largest prime factor of the number 600851475143 ?
 
 //implementation: using trial division... the runtime so long... 
-//as I'm typing this, it's still running
-//will update with faster algorithm later.
+//got the right answer with it after a long time of calculation
 
 bool ifOddNumIsPrime(long int num)
 {
